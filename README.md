@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **tayyabxfr@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 🔭 **I’m currently working on: ESP32-based Smart Energy Meter systems with MQTT, FreeRTOS, OTA updates, SD-card logging, and AWS/Firebase cloud integration.
+- 🌱 **I’m currently learning: Advanced Embedded Systems, STM32 low-level programming, Embedded Linux, CI/CD workflows, and debugging techniques
+- 👯 **I’m looking to collaborate on: IoT, Embedded Systems, Smart Metering, Industrial Automation, and Wireless Communication projects.
+- 🤔 **I’m looking for help with: Embedded Linux, RTOS optimization, advanced firmware architecture, and scalable IoT deployments.
+- 💬 **Ask me about: ESP32, STM32, FreeRTOS, MQTT, OTA Updates, Embedded C/C++, IoT Firmware, ADC/DMA, ESP-NOW, and Cloud-connected Embedded Devices.
+- 📫 **How to reach me: tayyabxfr@gmail.com.
 - 😄 **Pronouns:** Tabi 
 - ⚡ **Fun fact:** Modern luxury cars contain over 100 million lines of code and run on more than 200 embedded computers
 
