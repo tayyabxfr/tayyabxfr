@@ -8,7 +8,6 @@ Email Me 👉 ✉️ **tayyabxfr@gmail.com** For Collaboration/Project or Anythi
 - 👯 **I’m looking to collaborate on: IoT, Embedded Systems, Smart Metering, Industrial Automation, and Wireless Communication projects.
 - 🤔 **I’m looking for help with: Embedded Linux, RTOS optimization, advanced firmware architecture, and scalable IoT deployments.
 - 💬 **Ask me about: ESP32, STM32, FreeRTOS, MQTT, OTA Updates, Embedded C/C++, IoT Firmware, ADC/DMA, ESP-NOW, and Cloud-connected Embedded Devices.
-- 📫 **How to reach me: tayyabxfr@gmail.com.
 - 😄 **Pronouns:** Tabi 
 - ⚡ **Fun fact:** Modern luxury cars contain over 100 million lines of code and run on more than 200 embedded computers
 
